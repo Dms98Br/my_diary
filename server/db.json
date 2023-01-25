@@ -1,8 +1,53 @@
 {
+  "users": [
+    {
+      "email": "qwerty@email.com",
+      "password": "$2a$10$xrbVaDH5lnxjV0eYfxShtu1Fd/Vk4nnk11K1ke3snomW4YcrHqf2O",
+      "id": 1
+    },
+    {
+      "email": "qwerty1@email.com",
+      "password": "$2a$10$RoA6ofxS4xnzvbm/BaqGR.aCOAIM5eIKS9l2bcn7F.H9d3CqcG1tS",
+      "id": 2
+    },
+    {
+      "email": "qwerty2@email.com",
+      "password": "$2a$10$FTrVHGqa0aqTJy5n/fDiDuojGxRnTN5An4V.8O29fFibHW4vUoRN6",
+      "id": 3
+    },
+    {
+      "email": "qwerty4@email.com",
+      "password": "$2a$10$CECAB5b7qt3W9D6V1v5lRezQrH3.2zsBe7VeNBjNotrT2vn0sdepK",
+      "id": 4
+    },
+    {
+      "email": "qwerty5@email.com",
+      "password": "$2a$10$puaI2G9/hIIU69unJ2g0deD9SkhV0uG.oK0.UUeLt0u0MATALA/y2",
+      "id": 5
+    },
+    {
+      "email": "qwerty6@email.com",
+      "password": "$2a$10$PKhGp4ZBCSl0cQQWCRUrbedcZ5QE8rS4mvFSlUjmjgvlxRtvYsQ86",
+      "id": 6
+    }
+  ],
   "learnhttp": {
     "content": "Olá mundo!"
   },
   "journals": [
-    
+    {
+      "id": "95ddb3c0-9c1e-11ed-bf1c-812788e45216",
+      "content": "Sextouuuu!!!! com S de saudade!!",
+      "created_at": "2023-01-20 19:37:36.659511",
+      "updated_at": "2023-01-20 19:37:36.659511",
+      "userId": 1
+    },
+    {
+      "id": "d58c27e0-9c37-11ed-abd0-8d702d812f4d",
+      "content": "xcvxcvx",
+      "created_at": "2023-01-17 21:45:45.231748",
+      "updated_at": "2023-01-17 21:45:45.231748",
+      "userId": 2
+    }
   ]
 }
