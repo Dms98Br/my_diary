@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:http_interceptor/http/http.dart';
 
 class WebClient {
-  static const String url = "http://192.168.1.16:3000/";
+  static const String url = "http://192.168.1.16:3000/";//Coloque aqui o ip e a porta do seu servidor
   http.Client client = InterceptedClient.build(
     interceptors: [LoggingInterceptor()],
     requestTimeout: const Duration(
