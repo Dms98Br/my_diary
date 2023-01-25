@@ -1,8 +1,2 @@
-Getting Started
-This project is a starting point for a Flutter application.
+Para rodar esse projeto é necessário ter instalado o json server e json server auth de forma global. Exemplo npm install -g json-server json-server-auth ou yarn add -g json-server json-server-auth, depois é necessário que seja alterado o ip no arquivo [webclient.dart]([https://developer.android.com/](https://github.com/Dms98Br/my_diary/blob/main/lib/services/webcliente.dart))
 
-A few resources to get you started if this is your first Flutter project:
-
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
